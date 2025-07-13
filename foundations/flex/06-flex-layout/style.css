@@ -62,3 +62,6 @@ color: darkslategray;
 .buttons button{
   padding: 8px 12px;
 }
+.footer{
+  background: lightgray;
+}
